@@ -1,2 +1,2 @@
 // Content Interaction
-console.log('Boo!');
+$('h1').fitText();
